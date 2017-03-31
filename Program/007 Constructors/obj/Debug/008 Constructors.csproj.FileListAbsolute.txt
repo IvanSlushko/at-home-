@@ -1,0 +1,6 @@
+D:\workspace C#\OOP\Program\007 Constructors\bin\Debug\007 Constructors.exe.config
+D:\workspace C#\OOP\Program\007 Constructors\bin\Debug\007 Constructors.exe
+D:\workspace C#\OOP\Program\007 Constructors\bin\Debug\007 Constructors.pdb
+D:\workspace C#\OOP\Program\007 Constructors\obj\Debug\008 Constructors.csprojResolveAssemblyReference.cache
+D:\workspace C#\OOP\Program\007 Constructors\obj\Debug\007 Constructors.exe
+D:\workspace C#\OOP\Program\007 Constructors\obj\Debug\007 Constructors.pdb

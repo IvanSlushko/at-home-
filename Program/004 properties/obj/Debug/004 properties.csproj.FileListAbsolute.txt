@@ -1,0 +1,6 @@
+D:\workspace C#\OOP\Program\004 properties\bin\Debug\004 properties.exe.config
+D:\workspace C#\OOP\Program\004 properties\bin\Debug\004 properties.exe
+D:\workspace C#\OOP\Program\004 properties\bin\Debug\004 properties.pdb
+D:\workspace C#\OOP\Program\004 properties\obj\Debug\004 properties.csprojResolveAssemblyReference.cache
+D:\workspace C#\OOP\Program\004 properties\obj\Debug\004 properties.exe
+D:\workspace C#\OOP\Program\004 properties\obj\Debug\004 properties.pdb

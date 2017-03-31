@@ -1,0 +1,5 @@
+D:\workspace C#\OOP\Program\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\workspace C#\OOP\Program\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\workspace C#\OOP\Program\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\workspace C#\OOP\Program\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\workspace C#\OOP\Program\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

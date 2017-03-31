@@ -1,0 +1,5 @@
+D:\workspace C#\OOP\Program\005 proper\bin\Debug\005 proper.exe.config
+D:\workspace C#\OOP\Program\005 proper\bin\Debug\005 proper.exe
+D:\workspace C#\OOP\Program\005 proper\bin\Debug\005 proper.pdb
+D:\workspace C#\OOP\Program\005 proper\obj\Debug\005 proper.exe
+D:\workspace C#\OOP\Program\005 proper\obj\Debug\005 proper.pdb
