@@ -1,0 +1,5 @@
+D:\workspace C#\OOP\Program\013 Document\bin\Debug\013 Document.exe.config
+D:\workspace C#\OOP\Program\013 Document\bin\Debug\013 Document.exe
+D:\workspace C#\OOP\Program\013 Document\bin\Debug\013 Document.pdb
+D:\workspace C#\OOP\Program\013 Document\obj\Debug\013 Document.exe
+D:\workspace C#\OOP\Program\013 Document\obj\Debug\013 Document.pdb

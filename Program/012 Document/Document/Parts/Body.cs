@@ -1,0 +1,32 @@
+﻿using System;
+
+namespace Classes
+{
+    class Body
+    {
+        string content;
+        
+
+        public string Content
+        {
+            get
+            {
+                if (content != null)
+                    return content;
+                else return "тело документа отсутствует.";
+            }
+
+            set
+            {
+                content = value;
+            }
+        }
+        public void Show()
+        {
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine(Content);
+            Console.ForegroundColor = ConsoleColor.Gray;
+        }
+      
+    }
+}

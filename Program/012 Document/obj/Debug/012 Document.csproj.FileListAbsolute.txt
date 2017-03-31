@@ -1,0 +1,6 @@
+D:\workspace C#\OOP\Program\012 Document\bin\Debug\012 Document.exe.config
+D:\workspace C#\OOP\Program\012 Document\obj\Debug\012 Document.csprojResolveAssemblyReference.cache
+D:\workspace C#\OOP\Program\012 Document\bin\Debug\012 Document.exe
+D:\workspace C#\OOP\Program\012 Document\bin\Debug\012 Document.pdb
+D:\workspace C#\OOP\Program\012 Document\obj\Debug\012 Document.exe
+D:\workspace C#\OOP\Program\012 Document\obj\Debug\012 Document.pdb

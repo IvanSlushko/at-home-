@@ -1,0 +1,6 @@
+D:\workspace C#\OOP\Program\010 auto properties\bin\Debug\010 auto properties.exe.config
+D:\workspace C#\OOP\Program\010 auto properties\bin\Debug\010 auto properties.exe
+D:\workspace C#\OOP\Program\010 auto properties\bin\Debug\010 auto properties.pdb
+D:\workspace C#\OOP\Program\010 auto properties\obj\Debug\010 auto properties.csprojResolveAssemblyReference.cache
+D:\workspace C#\OOP\Program\010 auto properties\obj\Debug\010 auto properties.exe
+D:\workspace C#\OOP\Program\010 auto properties\obj\Debug\010 auto properties.pdb
