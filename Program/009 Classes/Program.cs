@@ -24,9 +24,10 @@ namespace _009_Classes
     {
         static void Main(string[] args)
         {
-
-
-
+            MyClass my = new MyClass();
+            MyClass2 my2 = new MyClass2();
+            my2.CallMethod(my);
+            Console.ReadKey();
         }
     }
 }
