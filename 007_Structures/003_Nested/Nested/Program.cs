@@ -10,7 +10,7 @@ namespace Nested
         {
             public void Method()
             {
-                Console.WriteLine("Nested");
+                Console.WriteLine("Nested structure in structure");
             }
         }
     }

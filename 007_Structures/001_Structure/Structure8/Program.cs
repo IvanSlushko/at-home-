@@ -16,9 +16,9 @@ namespace Structure
     {
         static void Main()
         {
-            MyStruct instance = new MyStruct();
+            MyStruct instance= new MyStruct();
 
-            instance.MyProperty = 1; 
+            instance.MyProperty = 17; 
             Console.WriteLine(instance.MyProperty);
 
             // Delay.

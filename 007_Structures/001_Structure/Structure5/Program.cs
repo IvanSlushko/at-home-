@@ -27,7 +27,7 @@ namespace Structure
         static void Main()
         {
             // Инициализация статических полей необязательна.
-            //MyStruct.Field = 1;
+            //MyStruct.Field = 18;
 
             MyStruct.Show();
 

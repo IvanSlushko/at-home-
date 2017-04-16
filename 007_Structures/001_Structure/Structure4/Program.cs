@@ -26,7 +26,7 @@ namespace Structure
         static void Main()
         {
             // Создание экземпляра структурного типа, с вызовом пользовательского конструктора.            
-            MyStruct instance = new MyStruct(1);
+            MyStruct instance = new MyStruct(15);
 
             Console.WriteLine(instance.field);
 

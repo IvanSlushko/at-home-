@@ -22,13 +22,13 @@ namespace Structure
         static void Main()
         {
             // Создание экземпляра структурного типа без вызова конструктора.
-            MyStruct instance;
+            MyStruct instance = new MyStruct(33);
 
 
             // Нельзя использовать не инициализированную переменную.
             // Так как конструктор не вызывался переменная field осталась не инициализированной.
 
-            //Console.WriteLine(instance.field);   // Убрать комментарий.
+            Console.WriteLine(instance.field);   // Убрать комментарий.
 
             // Delay.
             Console.ReadKey();

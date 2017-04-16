@@ -40,7 +40,7 @@ namespace Structure
     {
         static void Main()
         {
-            ZipCode zipCode = new ZipCode(12345, 1234);
+            ZipCode zipCode = new ZipCode(12345, 5678);
 
             Console.WriteLine(zipCode.FiveDigitCode);
             Console.WriteLine(zipCode.PlusFourExtension);

@@ -27,10 +27,11 @@ namespace Structure
         static void Main()
         {
             // Создание экземпляра структурного типа, с вызовом пользовательского конструктора.
-            MyStruct instance = new MyStruct { field = 0 };
-
+            MyStruct instance = new MyStruct() { field = 555 }; //с этим не отработают статич и пользовательский конструкторы, только по умолчанию!!
+            MyStruct instance1 = new MyStruct(33);  //c этим оба отработают
+            Console.WriteLine("----------------");
             Console.WriteLine(instance.field);
-
+            Console.WriteLine(instance1.field);
             // Delay.
             Console.ReadKey();
         }
