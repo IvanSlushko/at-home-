@@ -7,7 +7,7 @@ namespace Static
     {
         private static Singleton instance = null;
 
-        // Конструктор - "protected" 
+        // Конструктор - "protected" защищенный 
         protected Singleton() 
         {
         }

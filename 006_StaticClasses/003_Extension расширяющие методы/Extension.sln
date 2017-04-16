@@ -1,11 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Extension", "Extension\001_Extension.csproj", "{6C17C238-89CE-4E8E-9F82-D01A9C04E02B}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Extension расширяющий метод", "Extension\001_Extension расширяющий метод.csproj", "{6C17C238-89CE-4E8E-9F82-D01A9C04E02B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Extension", "Extension2\002_Extension.csproj", "{0A4F8269-299E-41A3-8BE6-737A04D693EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Extension", "Extension3\003_Extension.csproj", "{CF71F25D-37E1-45D6-812B-CE7226E40866}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Extension с перегрузкой", "Extension3\003_Extension с перегрузкой.csproj", "{CF71F25D-37E1-45D6-812B-CE7226E40866}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Extension", "Extension4\004_Extension.csproj", "{EA68AE0B-3378-4695-A468-B4F28A644E70}"
 EndProject

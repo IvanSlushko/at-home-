@@ -7,7 +7,7 @@ namespace Static
         // Контруктор экземпляра, вызывается только при создании экземпляра класса.
         public NotStaticClass()
         {
-            Console.WriteLine("Constructor.");
+            Console.WriteLine("Constructor экземпляра, вызывается только при создании экземпляра класса");
         }
 
         // Статический конструктор вызывается в любом случае, 

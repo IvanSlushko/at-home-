@@ -22,7 +22,7 @@ namespace Nested
         {
             public void MethodFromNested()
             {
-                Console.WriteLine("Метод Nested класса.");
+                Console.WriteLine("Метод Nested статич класса.");
             }
         }
     }

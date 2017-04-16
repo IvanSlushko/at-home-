@@ -13,8 +13,10 @@ namespace Static
             Singleton instance2 = Singleton.Instance();
 
             if (instance1 == instance2)
-                Console.WriteLine("Ссылки указывают на один экземпляр объекта.");            
-            
+                Console.WriteLine("Ссылки указывают на один экземпляр объекта.");
+
+            Console.WriteLine(instance1.GetHashCode());
+            Console.WriteLine(instance2.GetHashCode());
             // Delay.
             Console.ReadKey();
         }

@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_StaticConstructor", "St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Constructors", "Static7\007_Constructors.csproj", "{25E265E7-0E2F-471E-B960-831E25C1590E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_AbstractClass", "Static8\008_AbstractClass.csproj", "{E8C8CDD4-4E89-43AA-B104-0A8CF25D70D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_AbstractClass +override", "Static8\008_AbstractClass +override.csproj", "{E8C8CDD4-4E89-43AA-B104-0A8CF25D70D8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Static", "Static9\009_Static.csproj", "{A114C5DB-1DAA-4FAD-9D0C-C03F7A9E6899}"
 EndProject

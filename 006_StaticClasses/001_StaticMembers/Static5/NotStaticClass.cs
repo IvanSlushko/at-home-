@@ -16,7 +16,7 @@ namespace Static
     class NotStaticClass
     {
         // Статические поля readonly должны быть инициализированы в конструкторе.
-        static readonly long readonlyField = 2;
+        static readonly long readonlyField = 22;
 
         // Статическое свойство только для чтения.
         public static long ReadonlyField
@@ -24,7 +24,7 @@ namespace Static
             get { return NotStaticClass.readonlyField; }
         }
 
-        // Статический конструктор.        
+        // Статический конструктор.        все равно вернет 1 а не 22!!!!!!!!
         static NotStaticClass()
         {
             readonlyField = 1;

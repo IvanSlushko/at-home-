@@ -8,6 +8,7 @@ namespace Static
     {
         static void Main()
         {
+            NotStaticClass.Property = 55;
             Console.WriteLine(NotStaticClass.Property);
             
             // Delay.

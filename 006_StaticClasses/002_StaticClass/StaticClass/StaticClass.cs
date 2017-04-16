@@ -32,10 +32,10 @@ namespace Static
             Console.WriteLine("StaticMethod");
         }
 
-        // Нестатический метод - недопустим.
+        //Нестатический метод - недопустим.
         // public void NotStaticMethod()
-        // {
+        //{
         //    Console.WriteLine("NotStaticMethod");
-        // }
+        //}
     }
 }
