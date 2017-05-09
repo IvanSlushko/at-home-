@@ -15,7 +15,7 @@ namespace Delegates
             MyDelegate myDelegate = delegate { Console.WriteLine("Hello world!"); };
 
             // Вызов анонимного метода, сообщенного с делегатом.
-            myDelegate();
+            myDelegate.Invoke();
 
             // Delay.
             Console.ReadKey();
