@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Delegates", "Delegates\001_Delegates.csproj", "{99B3DE57-7A6A-49E4-9562-A83203F972E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Delegates", "Delegates2\002_Delegates.csproj", "{6F3E4817-0087-4C2B-8893-F9ADEED587D4}"
@@ -9,13 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Delegates", "Delegates3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Delegates", "Delegates4\004_Delegates.csproj", "{5E294F13-0EC2-450F-A6D4-B47DB6659BBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Delegates", "Delegates5\005_Delegates.csproj", "{F3BC96C8-F35D-485A-9E2C-DAB10CE62BB5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Delegates анонимный", "Delegates5\005_Delegates анонимный.csproj", "{F3BC96C8-F35D-485A-9E2C-DAB10CE62BB5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Delegates", "Delegates6\006_Delegates.csproj", "{8B1AEF96-148D-4D71-93F8-A0338F67F9E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Delegates", "Delegates7\007_Delegates.csproj", "{02856938-4B52-49BE-9133-1CF3644648E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Delegates арг ref out", "Delegates7\007_Delegates арг ref out.csproj", "{02856938-4B52-49BE-9133-1CF3644648E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Delegates", "Delegates8\008_Delegates.csproj", "{FA54D365-C3EE-4376-9627-FB8B8764743A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Delegates Лямбда", "Delegates8\008_Delegates Лямбда.csproj", "{FA54D365-C3EE-4376-9627-FB8B8764743A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Delegates", "Delegates9\009_Delegates.csproj", "{84BE317E-A723-4AB9-99C3-21FA981720EF}"
 EndProject

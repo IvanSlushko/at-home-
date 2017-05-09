@@ -28,7 +28,7 @@ namespace Delegates
                 Console.WriteLine("End {0}", i);
             };
 
-            my(3);
+            my(5);
 
             // Delay.
             Console.ReadKey();
