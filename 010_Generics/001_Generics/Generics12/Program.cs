@@ -8,7 +8,7 @@ namespace Generics
     public abstract class Shape { }
     public class Circle : Shape { }
 
-    public interface IContainer<in T>
+    public interface IContainer<in T> //контрвариантность
     {
         T Figure { set; }
     }

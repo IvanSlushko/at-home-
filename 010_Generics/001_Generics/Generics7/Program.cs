@@ -10,7 +10,7 @@ namespace Generics
 
     public interface IContainer<out T>
     {
-        T Figure { get; }
+        T Figure { get; } 
     }
 
     public class Container<T> : IContainer<T>

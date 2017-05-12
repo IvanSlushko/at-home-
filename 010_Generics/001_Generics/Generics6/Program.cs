@@ -28,7 +28,7 @@ namespace Generics
         {
             Circle circle = new Circle();
 
-            IContainer<Shape> container = new Container<Shape>(circle);
+            IContainer<Shape> container = new Container<Shape>(circle); //неявное приведение сёркл к базовому  классу шейп АПКАСТ
 
             Console.WriteLine(container.Figure.ToString());
 
