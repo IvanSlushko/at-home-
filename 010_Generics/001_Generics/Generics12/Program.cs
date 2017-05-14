@@ -39,7 +39,7 @@ namespace Generics
         {
             Shape shape = new Circle();
 
-            IContainer<Circle> container = new Container<Shape>(shape);
+            IContainer<Circle> container = new Container<Shape>(shape);//параметр приводится к производному типу downcast
 
             Console.WriteLine(container.ToString());
 

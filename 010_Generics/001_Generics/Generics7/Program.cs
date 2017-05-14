@@ -34,7 +34,9 @@ namespace Generics
         {
             Circle circle = new Circle();
 
-            IContainer<Shape> container = new Container<Circle>(circle);
+            IContainer<Shape> container = new Container<Circle>(circle); //upcast параметра типа
+            //контейнер приводится в айконтейнеру, а сёркл приводится к шейпу
+            //ковариантность посредством слова out
 
             Console.WriteLine(container.Figure.ToString());
 

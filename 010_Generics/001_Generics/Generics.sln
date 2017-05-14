@@ -17,9 +17,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Generics", "Generics6\0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Generics", "Generics7\007_Generics.csproj", "{27E9ADC2-2529-4C6A-AC2F-6C6A8C1192EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Generics", "Generics8\009_Generics.csproj", "{E8897241-D46C-4E29-A5A9-A387D620C1AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Generics каовари делегат", "Generics8\009_Generics каовари делегат.csproj", "{E8897241-D46C-4E29-A5A9-A387D620C1AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Generics", "Generics9\010_Generics.csproj", "{AFF666DB-11D1-4EF6-88BB-6E936E0087C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Generics контрвари делегат", "Generics9\010_Generics контрвари делегат.csproj", "{AFF666DB-11D1-4EF6-88BB-6E936E0087C5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Generics", "Generics10\011_Generics.csproj", "{02A7697D-8B00-44BE-8223-AD948DF1CC9F}"
 EndProject
