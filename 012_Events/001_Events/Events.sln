@@ -1,9 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Events", "Events\001_Events.csproj", "{EA53D588-ABB7-4630-B11B-60480C6C6376}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Events", "Events2\002_Events.csproj", "{9B37676F-ECFA-49D2-8808-1DE38C3AA498}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Events ADD Remove безопасно", "Events2\002_Events ADD Remove безопасно.csproj", "{9B37676F-ECFA-49D2-8808-1DE38C3AA498}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Events", "Events3\003_Events.csproj", "{5355423A-0022-4860-8FBD-F9387E7DC987}"
 EndProject

@@ -14,13 +14,16 @@ namespace MVP
             this.model = new Model();
             this.mainWindow = mainWindow;
             this.mainWindow.myEvent += new EventHandler(mainWindow_myEvent);
+
         }
 
         void mainWindow_myEvent(object sender, System.EventArgs e)
         {
-            string variable = model.Logic(this.mainWindow.textBox1.Text);
+            string variable1 = model.Logic(this.mainWindow.textBox1.Text);
+            string variable = model.Logic(this.mainWindow.textBox.Text);
 
-            this.mainWindow.textBox1.Text = variable;
+            this.mainWindow.textBox1.Text = variable1;
+            this.mainWindow.textBox.Text = variable;
         }
     }
 }

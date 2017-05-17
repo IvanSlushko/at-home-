@@ -76,7 +76,7 @@ namespace Events
 
         static private void PressKeyB_Handler()
         {
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.DarkBlue ;
             Console.WriteLine();
             Console.WriteLine("XXXXX  ");
             Console.WriteLine("X    X ");

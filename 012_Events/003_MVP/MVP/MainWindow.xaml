@@ -3,7 +3,26 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="204" Width="525">
     <Grid>
-        <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="185,95,0,0" Name="button1" VerticalAlignment="Top" Width="120" Click="button1_Click" />
-        <TextBox Height="23" HorizontalAlignment="Left" Margin="76,47,0,0" Name="textBox1" VerticalAlignment="Top" Width="338" />
+        <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="190,130,0,0" Name="button1" VerticalAlignment="Top" Width="120" Click="button1_Click" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="65,47,0,0" Name="textBox1" VerticalAlignment="Top" Width="338" RenderTransformOrigin="0.5,0.5" >
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="65,85,0,0"  VerticalAlignment="Top" Width="338" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
     </Grid>
 </Window>

@@ -18,6 +18,7 @@ namespace MVP
         private void button1_Click(object sender, RoutedEventArgs e)
         {
             myEvent.Invoke(sender, e);
+
         }
     }
 }

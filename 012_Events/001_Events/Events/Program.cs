@@ -37,6 +37,8 @@ namespace Events
             // Присоединение обработчиков событий. (Подписка на событие)
             instance.myEvent += new EventDelegate(Handler1);
             instance.myEvent += Handler2;
+            instance.myEvent += Handler2;
+
 
             // Метод который вызывает событие.
             instance.InvokeEvent();
